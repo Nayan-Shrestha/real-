@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About Nayan Shrestha</title>
+	</head>
+	<body>
+		<h1>About me</h1>
+		<img src="me.png" alt="This is a photo of me no cap"
+		<br>
+		<p>My name is <b>Nayan Shrestha </b> (no way) and I am 15 years old. I currently go to Whitney High School and I am a sophmore. My favorite subject in school is math because I am good at it.</p>
+		<hr>
+		<h2>My favorite food</h2>
+		<img src="pizza.png" alt="This is a photo of pizza fr" <br>
+		<p>My favorite food is pizza which is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as various types of sausage, anchovies, mushrooms, onions, olives, vegetables, meat, ham, etc.), which is then baked at a high temperature. My reason for foving this food is mainly due to the large amount of customization that can be done to pizza which allows anyone to enjoy the delight regardless of preference as well as ensuring that it is nearly impossible to get bored of eating pizza.</p>
+		<hr>
+		<h2>My favorite video game</h2>
+		<p>As of right now my favorite game is Overwatch 2 although I play many other games which include minecraft, roblox, and terraria.In case you don't know what Overwatch 2 is it's a first-person shooter game developed and published by Blizzard Entertainment. As a sequel and replacement to the 2016 hero shooter Overwatch, the game hosts player versus players modes as well as player versus enviornment modes to entertain the player base.</p>
+		<hr>
+		<h2>My hobbies</h2>
+		<ul>
+			<li>Reading</li>
+			<li>Playing sports</li>
+			<li>Playing video games</li>
+			<li>Sleeping</li>
+
+
+		</ul>
+		<marquee>omg I finished!!!!!!!!!!!!!!!!</marquee>
+	</body>
+</html>
